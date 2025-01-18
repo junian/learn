@@ -1,5 +1,4 @@
-# freecodecamp
+# My Learning Journey
 
-My freeCodeCamp progress and result.
-
-- [Responsive Web Design](./responsive-web-design/)
+- [freeCodeCamp](./freecodecamp/)
+- [Linux Foundation](./linuxfoundation/)
