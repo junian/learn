@@ -1,8 +1,12 @@
 title: My Learning Journey
 description: A walkthrough and result of my learning experience
 show_downloads: false
-google_analytics: G-MKQK789F6L
 theme: jekyll-theme-primer
+google_analytics: G-BJ58GF34YZ
+url: "https://www.junian.dev" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/learn" # the subpath of your site, e.g. /blog
+repository: junian/learn # for github-metadata
+enforce_canonical_domain: true
 
 markdown: kramdown
 
